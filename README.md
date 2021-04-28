@@ -6,3 +6,10 @@ Battery Report Generator for Windows 10 / Windows 7
   
   
 ### Enjoy 🤗
+
+## sample report : 
+![image](https://user-images.githubusercontent.com/48027382/116454316-7a3b0a00-a87d-11eb-8b9e-dddebc96cf04.png)
+## 
+![image](https://user-images.githubusercontent.com/48027382/116454440-9fc81380-a87d-11eb-9d1d-a25b0673b253.png)
+##
+![image](https://user-images.githubusercontent.com/48027382/116454529-b5d5d400-a87d-11eb-9eb6-336c7feec01c.png)
