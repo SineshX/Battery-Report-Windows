@@ -22,3 +22,4 @@ end up making a exe file to generate report Quickly :)
 hope microsoft will add this feature to settings soon ,
 * windows generates this report regularly , its just that they dont wanna give us 😆
 * just wrote a shell script to get this data from windows battery report .
+*  ``` cmd /c powercfg /batteryreport /output %cd%\Battery_Report_%date%.html ```
